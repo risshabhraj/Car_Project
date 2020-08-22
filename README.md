@@ -1,6 +1,6 @@
 What is EDA?
 
-Approach	  Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques
+Approach--	  Exploratory Data Analysis (EDA) is an approach/philosophy for data analysis that employs a variety of techniques
                 (mostly graphical) to :-
                 > maximize insight into a data set;
                 > uncover underlying structure;
@@ -12,7 +12,7 @@ Approach	  Exploratory Data Analysis (EDA) is an approach/philosophy for data an
                 
                 
                 
-Philosophy	EDA is not identical to statistical graphics although the two terms are used almost interchangeably. Statistical 
+Philosophy--	EDA is not identical to statistical graphics although the two terms are used almost interchangeably. Statistical 
             graphics is a collection of techniques--all graphically based and all focusing on one data characterization aspect. 
             EDA encompasses a larger venue; EDA is an approach to data analysis that postpones the usual assumptions about what 
             kind of model the data follow with the more direct approach of allowing the data itself to reveal its underlying 
@@ -23,7 +23,7 @@ Philosophy	EDA is not identical to statistical graphics although the two terms a
       
       
       
-Techniques	Most EDA techniques are graphical in nature with a few quantitative techniques. The reason for the heavy reliance on
+Techniques--	Most EDA techniques are graphical in nature with a few quantitative techniques. The reason for the heavy reliance on
             graphics is that by its very nature the main role of EDA is to open-mindedly explore, and graphics gives the analysts
             unparalleled power to do so, enticing the data to reveal its structural secrets, and being always ready to gain some 
             new, often unsuspected, insight into the data. In combination with the natural pattern-recognition capabilities that we
