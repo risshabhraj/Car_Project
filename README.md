@@ -29,12 +29,11 @@ Techniques	Most EDA techniques are graphical in nature with a few quantitative t
             new, often unsuspected, insight into the data. In combination with the natural pattern-recognition capabilities that we
             all possess, graphics provides, of course, unparalleled power to carry this out.
        
-      
-            The particular graphical techniques employed in EDA are often quite simple, consisting of various techniques of:
+ The particular graphical techniques employed in EDA are often quite simple, consisting of various techniques of:
 
-            > Plotting the raw data (such as data traces, histograms, bihistograms, probability plots, lag plots, block plots, and Youden plots.
-            > Plotting simple statistics such as mean plots, standard deviation plots, box plots, and main effects plots of the raw data.
-            > Positioning such plots so as to maximize our natural pattern-recognition abilities, such as using multiple plots per page.
+   > Plotting the raw data (such as data traces, histograms, bihistograms, probability plots, lag plots, block plots, and Youden plots.
+   > Plotting simple statistics such as mean plots, standard deviation plots, box plots, and main effects plots of the raw data.
+   > Positioning such plots so as to maximize our natural pattern-recognition abilities, such as using multiple plots per page.
                   
                   
                   
